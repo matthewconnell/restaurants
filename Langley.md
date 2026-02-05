@@ -1,6 +1,6 @@
 ## Langley Restaurants
 
-1. Pizza Garden
+1. Pizza Gardens
 2. Sushi Monster
 2. McDonald's
 3. Langley Vietnamese Cuisine
