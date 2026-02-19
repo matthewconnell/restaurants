@@ -4,3 +4,5 @@
 - Vera's Burger Shack (might have vegan options)
 - House of Dosa
 - Ask for Luigi
+- Danbo Ramen
+- Oretachi Curry
