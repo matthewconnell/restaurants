@@ -1,2 +1,2 @@
-Kirin Seafood
-Happy Lamb Hot POt
+- Kirin Seafood
+- Happy Lamb Hot POt
